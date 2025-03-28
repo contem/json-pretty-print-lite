@@ -1,0 +1,20 @@
+
+{
+  "name": "json-pretty-print-lite",
+  "version": "1.0.0",
+  "description": "Lightweight utility to print JSON data in a human-readable format with optional color",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "json",
+    "pretty",
+    "print",
+    "format",
+    "debug",
+    "color"
+  ],
+  "author": "Yunus Emre Buğuş <contem.fe@gmail.com>",
+  "license": "MIT"
+}
